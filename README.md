@@ -3,7 +3,7 @@ This C++ project implements a rotor machine encryption system capable of encrypt
 
 The project consists of the following files:
 
-- **Makefile**: Used to compile the C++ program named "rotorMachine" from source code files "rotorMachine.cpp" and "raj_shorya_assn3.cpp". It specifies compiler settings and rules for building the executable and cleaning up generated files.
+- **Makefile**: Used to compile the C++ program named "rotorMachine" from source code files "rotorMachine.cpp" and "Main.cpp". It specifies compiler settings and rules for building the executable and cleaning up generated files.
 
 - **Main.cpp**: Behaves as a command-line interface for the rotor machine, initializing rotor configurations, and encrypting or decrypting files based on user input.
 
