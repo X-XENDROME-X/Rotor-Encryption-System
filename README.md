@@ -19,7 +19,7 @@ The project consists of the following files:
    ```
 2. Initialize Rotor Machine
    ```bash
-   ./rotorMachine -e <input_file> <output_file> -r <rotor_position_1> <rotor_position_2> -i <config_file>
+   ./rotorMachine -i <config_file>
    ```
 3. To encrypt a file with a specified rotor configuration
    ```bash
